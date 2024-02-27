@@ -1,0 +1,32 @@
+
+body, h1, p, ul {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    font-family: 'Arial', sans-serif;
+    margin: 20px;
+}
+
+h1 {
+    color: #0b0e00;
+}
+
+.container {
+    max-width: 960px; 
+    margin-right: auto;
+    margin-left: auto;
+}
+
+
+.row {
+    margin-bottom: 20px;
+}
+
+
+img {
+    max-width: 100%;
+    height: auto;
+    margin-top: 20px;
+}
